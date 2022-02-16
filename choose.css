@@ -1,0 +1,34 @@
+
+
+.title {
+
+    text-align: center;
+    font-family: Futura;
+    color: #0051ff;
+}
+
+
+
+.pac-game {
+width: 300px;
+position: absolute;
+right: 65%;
+top: 30% ;
+}
+
+.pac-game img {
+    width: 100%;
+}
+
+
+.bird-game {
+    width: 400px;
+    position: absolute;
+    left: 65%;
+    top: 30%;
+
+}
+    
+.bird-game img {
+    width: 100%;
+}
